@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 5px;
+    margin: 5px;
+    justify-content: center;
+    background-color: rgba(211, 211, 211, 0.63);
+    width: 80%;
+    border-radius: 20px;
+};

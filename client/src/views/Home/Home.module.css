@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.select {
+    border: none;
+    background-color: darkgray;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.cards {
+    /* border: 1px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.allCountries {
+    border: none;
+    background-color: darkgrey;
+    border-radius: 2px;
+    margin: 2px;
+}

@@ -1,0 +1,17 @@
+.container {
+    margin-top: 8px;
+}
+
+.container input {
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    margin-right: 3px;
+}
+
+.container button {
+    border: none;
+    background-color: darkgrey;
+    border-radius: 10px;
+    height: 25px;
+}

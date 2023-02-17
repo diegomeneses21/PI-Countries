@@ -1,0 +1,18 @@
+.container {
+    height: 50px;
+    /* border: 2px solid black; */
+    background-color: lightgray;
+    /* border-radius: 20px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.links {
+    width: 700px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+};
+
